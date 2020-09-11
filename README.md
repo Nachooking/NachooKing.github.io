@@ -1,2 +1,0 @@
-# First WebDev Project
-:basketball:
